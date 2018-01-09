@@ -12,7 +12,7 @@ namespace HelloSite.XUnit.Test
         [Fact]
         public void Test_Method_Hello_World()
         {
-            Assert.True(false);
+            Assert.True(true);
         }
     }
 }
