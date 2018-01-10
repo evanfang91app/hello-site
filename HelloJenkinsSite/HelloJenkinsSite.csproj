@@ -188,6 +188,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Properties\PublishProfiles\dev-web-deploy.pubxml" />
     <None Include="Properties\PublishProfiles\master-deploy.pubxml">
       <SubType>Designer</SubType>
     </None>
